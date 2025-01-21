@@ -1,4 +1,4 @@
-O código foi reorganizado para atender aos padrões propostos pelo framework [Guara(https://github.com/douglasdcm/guara/tree/main)] e está sendo utilizado como parte dos experimentos realizados pela equipe para validar as capacidades da ferramenta. O principal objetivo é estruturar o fluxo de automação de forma modular e reutilizável, separando as responsabilidades em transações específicas como abrir o Google, realizar login e finalizar a execução.
+O código foi reorganizado para atender aos padrões propostos pelo framework [Guara](https://github.com/douglasdcm/guara/tree/main) e está sendo utilizado como parte dos experimentos realizados pela equipe para validar as capacidades da ferramenta. O principal objetivo é estruturar o fluxo de automação de forma modular e reutilizável, separando as responsabilidades em transações específicas como abrir o Google, realizar login e finalizar a execução.
 
 Isso facilita a legibilidade, a manutenção e a escalabilidade do código, permitindo que cada etapa do processo seja tratada como uma unidade independente. Caso tenha sugestões ou precise de ajustes, fico à disposição!
 
